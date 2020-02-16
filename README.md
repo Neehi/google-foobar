@@ -2,7 +2,7 @@
 
 [Google Foobar](https://foobar.withgoogle.com/) is a series of secret coding challenges set by Google, as part of their recruitment process.
 
-Whether you want to work for Google or not, they're worth attempting as they're fun and interesting challenges, some of which are definitely quite challenging. Plus, there's an amusing backstory to be folllowed, which you can read [here](https://github.com/Neehi/google-foobar/blob/master/journal.txt).
+Whether you want to work for Google or not, they're worth attempting as they're fun and interesting challenges, some of which are definitely quite challenging. Plus, there's an amusing backstory to be followed, which you can read in the [journal](https://github.com/Neehi/google-foobar/blob/master/journal.md).
 
 There are 5 levels in total, each with increasing difficulty, and a final fun epilogue challenge. The exact challenges you'll face are random - these are just the ones I was set.
 
